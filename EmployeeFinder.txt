@@ -1,0 +1,15 @@
+.gitignore
+app
+    data
+        employees.js
+    public
+        -js
+            survey.js
+        home.html
+        survey.html
+    routing
+        apiRoutes.js 
+        htmlRoutes.js
+node_modules
+package.json
+server.js
